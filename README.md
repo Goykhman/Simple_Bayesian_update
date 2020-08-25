@@ -16,4 +16,4 @@ Notice that just like the probability itself is not an observable (instead, we o
 
 Therefore, in particular, collapse of the wave function (which is also and in particular not an observable process) reflects the change of knowledge of the observer, who measured some given operator in one of its eigenstates. In other words, collapse of the wave function does not correspond to any dynamics in the observed system itself, but only to the update of knowledge of the observer / classical measuring device. 
 
-P.S. This simple example also trivially demonstrates how to resolve Lindley's/Jeffrey's paradox, since it explicitly shows how Bayesian inference results in the same conclusion as the frequency measurement for the i.i.d. events.
+P.S. This simple example also trivially demonstrates how to resolve Lindley's/Jeffreys's paradox, since it explicitly shows how Bayesian inference results in the same conclusion as the frequency measurement for the i.i.d. events.
